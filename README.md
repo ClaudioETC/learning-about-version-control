@@ -2,4 +2,4 @@
 Repo to highlight the importance of Version Control (DSCI 310)
 Repository made by UBC Student Claudio Emiliano Torres Cantu
 
-Solving merge conflicts is easy
+Solving merge conflicts is crazy HARD
